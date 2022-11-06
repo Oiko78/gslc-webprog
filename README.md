@@ -1,7 +1,3 @@
-## About The Project
-
-Baktify is ...
-
 ## Getting Started
 
 ### Prerequisites
@@ -17,7 +13,7 @@ Baktify is ...
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/Oiko78/laravel-baktify.git
+   git clone https://github.com/Oiko78/gslc-webprog-5.git
    ```
 
 2. Install packages
