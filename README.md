@@ -6,7 +6,7 @@
 - PHP v8.0 or above
 - [Composer](https://getcomposer.org/download)
 - [XAMPP v8.0 or above](https://www.apachefriends.org/download)
-- NodeJS
+- NodeJS V16 (doesn't work for v17+)
 
 ### Installation
 
