@@ -35,7 +35,7 @@ Run these commands simultaneously on 2 seperate terminal on the same directory.
   php artisan serve
   ```
 
-- To compile and watch for assets and file changes
+- To compile and watch for assets and file changes **`(optional)**
 
   ```sh
   npm run watch
