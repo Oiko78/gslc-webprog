@@ -6,7 +6,7 @@
 - PHP v8.0 or above
 - [Composer](https://getcomposer.org/download)
 - [XAMPP v8.0 or above](https://www.apachefriends.org/download)
-- NodeJS V16 (doesn't work for v17+)
+- NodeJS
 
 ### Installation
 
@@ -35,7 +35,7 @@ Run these commands simultaneously on 2 seperate terminal on the same directory.
   php artisan serve
   ```
 
-- To compile and watch for assets and file changes **`(optional)**
+- To compile and watch for assets and file changes **(optional)**
 
   ```sh
   npm run watch
