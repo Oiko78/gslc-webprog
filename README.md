@@ -13,7 +13,7 @@
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/Oiko78/gslc-webprog-5.git
+   git clone https://github.com/Oiko78/gslc-webprog.git
    ```
 
 2. Install packages
