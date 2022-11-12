@@ -14,7 +14,7 @@
             <div class="product__image">
               <button class="product__tag button button-contained">Electro</button>
               <a href={{ '/products/' . $product['id'] }}>
-                <img src={{ 'images/' . $product['image'] }} alt="">
+                <img src={{ '/images/' . $product['image'] }} alt="">
               </a>
             </div>
             <h2 class="product__name">{{ $product['name'] }}</h1>
